@@ -1,2 +1,4 @@
-# kiffle
-A iconset for Linux desktop enviroments
+# aryetswo
+A iconset for Linux desktop environments
+
+Still very much in the works
