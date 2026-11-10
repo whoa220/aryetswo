@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="103.55723mm"
+   height="98.674667mm"
+   viewBox="0 0 103.55723 98.674666"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="85.402543"
-     inkscape:cy="432.42283"
+     inkscape:zoom="1.829812"
+     inkscape:cx="-7.377807"
+     inkscape:cy="298.11805"
      inkscape:window-width="2560"
      inkscape:window-height="1375"
      inkscape:window-x="0"
@@ -105,7 +105,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-53.77976,-84.150681)">
     <g
        id="g24763"
        transform="matrix(0.87067267,0,0,0.87067267,-28.526155,-23.19246)">
@@ -129,7 +130,7 @@
        id="path805" />
     <path
        style="opacity:1;fill:url(#linearGradient2516);fill-opacity:1;stroke-width:0.264999"
-       d="m 124.3775,135.42936 31.84273,24.49217 -0.0418,15.42093 -34.928,-35.79258 z"
+       d="m 124.3775,135.42936 32.95949,25.20657 -0.0988,15.44757 -35.98779,-36.53362 z"
        id="path1796"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -137,7 +138,7 @@
        style="fill:#999999;stroke-width:0.429601"
        d="m 95.794834,84.15074 a 33.784593,33.376905 0 0 0 -33.715198,33.42199 33.784593,33.376905 0 0 0 33.80734,33.3315 33.784593,33.376905 0 0 0 33.761274,-33.37673 V 117.437 A 33.784593,33.376905 0 0 0 95.794834,84.150751 Z m 0.0079,3.882136 a 29.854827,29.494558 0 0 1 29.915176,29.414194 v 0.0805 a 29.854827,29.494558 0 0 1 -29.833863,29.4946 29.854827,29.494558 0 0 1 -29.874958,-29.45442 29.854827,29.494558 0 0 1 29.79369,-29.534829 z" />
     <path
-       style="opacity:0.438627;fill:url(#radialGradient2588);stroke-width:0.379631;fill-opacity:1"
+       style="opacity:0.438627;fill:url(#radialGradient2588);fill-opacity:1;stroke-width:0.379631"
        id="path1182"
        sodipodi:type="arc"
        sodipodi:cx="95.863922"
